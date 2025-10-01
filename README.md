@@ -1,9 +1,9 @@
-#🎬 Movie Finder
+# 🎬 Movie Finder
 
 Movie Finder is a simple web application built using HTML, CSS, and JavaScript.
 It allows users to search for movies by name and fetches details like poster, release date, and overview using a movie API.
 
-#🚀 Features
+# 🚀 Features
 
 🔍 Search movies by title.
 
@@ -26,7 +26,7 @@ JavaScript (ES6) – Fetching data and dynamic rendering
 Movie API – Flutter Movie API
 
 
-#📂 Project Structure
+# 📂 Project Structure
 ```
 ├── index.html      # Main HTML file  
 ├── mov.css         # Styling  
@@ -39,7 +39,7 @@ Iron Man → shows Iron Man details.
 
 Avatar → shows Avatar details.
 
-#📌 Future Improvements
+# 📌 Future Improvements
 
 Display multiple search results instead of just one.
 
